@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliNDev01
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently React.js and React Native
-- 💞️ I’m looking to collaborate on any projects that match my skillset 
+- 🌱 I’m currently doing React.js and React Native projects
+- 💞️ I’m looking to collaborate on any projects that match this skillset 
 - 📫 You can reach me through Github!
 
 <!---
